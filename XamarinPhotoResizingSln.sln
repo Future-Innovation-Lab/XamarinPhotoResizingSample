@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPhotoResizing.Android", "XamarinPhotoResizing\XamarinPhotoResizing.Android\XamarinPhotoResizing.Android.csproj", "{226C7688-5071-4203-943D-8B06E578DB49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinPhotoResizing", "XamarinPhotoResizing\XamarinPhotoResizing\XamarinPhotoResizing.csproj", "{B13CB5DA-110A-452D-BE41-DE79EA7946DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{226C7688-5071-4203-943D-8B06E578DB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{226C7688-5071-4203-943D-8B06E578DB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{226C7688-5071-4203-943D-8B06E578DB49}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{226C7688-5071-4203-943D-8B06E578DB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{226C7688-5071-4203-943D-8B06E578DB49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{226C7688-5071-4203-943D-8B06E578DB49}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{B13CB5DA-110A-452D-BE41-DE79EA7946DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B13CB5DA-110A-452D-BE41-DE79EA7946DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B13CB5DA-110A-452D-BE41-DE79EA7946DF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B13CB5DA-110A-452D-BE41-DE79EA7946DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B13CB5DA-110A-452D-BE41-DE79EA7946DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B13CB5DA-110A-452D-BE41-DE79EA7946DF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61C768AB-0D4A-4136-9CBC-12EFBB07DE63}
+	EndGlobalSection
+EndGlobal
